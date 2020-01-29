@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterstellarBattle1.0-05292017", "Assembly-CSharp.csproj", "{EA49E881-C00B-C613-B343-B0704F9A37DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA49E881-C00B-C613-B343-B0704F9A37DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA49E881-C00B-C613-B343-B0704F9A37DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA49E881-C00B-C613-B343-B0704F9A37DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA49E881-C00B-C613-B343-B0704F9A37DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

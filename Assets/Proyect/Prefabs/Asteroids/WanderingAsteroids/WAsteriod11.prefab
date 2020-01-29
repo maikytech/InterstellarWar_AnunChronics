@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6411347221413303181
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6407757132223119175}
+  - component: {fileID: 6358398872663335475}
+  - component: {fileID: 6419948013017450159}
+  - component: {fileID: 6443494857471822925}
+  - component: {fileID: 4576343782684768190}
+  m_Layer: 0
+  m_Name: WAsteriod11
+  m_TagString: Asteroid
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6407757132223119175
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6411347221413303181}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 42.7, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7660501903008666329}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &6358398872663335475
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6411347221413303181}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!136 &6419948013017450159
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6411347221413303181}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 7.759473
+  m_Height: 20.67273
+  m_Direction: 0
+  m_Center: {x: -0.14564896, y: -0.109241486, z: -0.008517265}
+--- !u!114 &6443494857471822925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6411347221413303181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b32d911deba0c4f1aae2c0832636932d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asteroidExplosion: {fileID: 1000012116087122, guid: 3909b4ee2dbb542f6aac3203d1465b83,
+    type: 3}
+--- !u!114 &4576343782684768190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6411347221413303181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 933c31ad74ca84cb698008368222a4e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speedRotation: 5
+--- !u!1001 &7656584023982516357
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6407757132223119175}
+    m_Modifications:
+    - target: {fileID: 1166615005892324, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_Name
+      value: AsteroidModel11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 600
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2c2fa2878e4800a41aaa7ad09c327b6b, type: 3}
+--- !u!4 &7660501903008666329 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4001667005659740, guid: 2c2fa2878e4800a41aaa7ad09c327b6b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7656584023982516357}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OriginalProyect/Scripts/GameControllerScripts/SpawnEnemies.cs">
+    <Files>
+      <File FileName="Assets/OriginalProyect/Scripts/WeaponsScripts/ShotShellEnemyController.cs" Line="29" Column="3" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameControllerScripts/GameController.cs" Line="39" Column="40" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameControllerScripts/SpawnEnemies.cs" Line="25" Column="41" />
+      <File FileName="Assets/OriginalProyect/Scripts/WeaponsScripts/ShellController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/EnemiesScripts/OvniRotation.cs" Line="11" Column="36" />
+      <File FileName="Assets/OriginalProyect/Scripts/EnemiesScripts/AsteroidRotation.cs" Line="25" Column="3" />
+      <File FileName="Assets/OriginalProyect/Scripts/EnemiesScripts/EnemyController.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

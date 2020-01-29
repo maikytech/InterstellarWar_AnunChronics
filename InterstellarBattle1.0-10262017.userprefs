@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs">
+    <Files>
+      <File FileName="Assets/OriginalProyect/Scripts/Weapons/ShotShellController.cs" Line="35" Column="2" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameController/SpawnEnemies.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameController/DifficultyLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/Weapons/ShotShellEnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameController/HealthController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/Weapons/ShotController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/Enemies/Asteroids/AsteriodCollisionController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameController/SpawnAsteroids.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameController/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/GameController/UXController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/Enemies/EnemyShips/EnemyCollisionController.cs" Line="1" Column="1" />
+      <File FileName="Assets/OriginalProyect/Scripts/Player/PlayerCollisionController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs" Line="89" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

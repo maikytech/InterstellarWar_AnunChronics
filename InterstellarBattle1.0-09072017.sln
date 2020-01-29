@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterstellarBattle1.0-09072017", "Assembly-CSharp.csproj", "{9478F82E-B258-2AE4-FA7E-F9A2AE83EA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterstellarBattle1.0-09072017", "Assembly-CSharp-firstpass.csproj", "{C4BC57A6-9421-F128-ECBB-06D3EAE87E0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterstellarBattle1.0-09072017", "Assembly-CSharp-Editor-firstpass.csproj", "{6C4BB929-ACF8-6A2C-8D8E-71F106E01383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9478F82E-B258-2AE4-FA7E-F9A2AE83EA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9478F82E-B258-2AE4-FA7E-F9A2AE83EA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9478F82E-B258-2AE4-FA7E-F9A2AE83EA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9478F82E-B258-2AE4-FA7E-F9A2AE83EA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4BC57A6-9421-F128-ECBB-06D3EAE87E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BC57A6-9421-F128-ECBB-06D3EAE87E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BC57A6-9421-F128-ECBB-06D3EAE87E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BC57A6-9421-F128-ECBB-06D3EAE87E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C4BB929-ACF8-6A2C-8D8E-71F106E01383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4BB929-ACF8-6A2C-8D8E-71F106E01383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4BB929-ACF8-6A2C-8D8E-71F106E01383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4BB929-ACF8-6A2C-8D8E-71F106E01383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

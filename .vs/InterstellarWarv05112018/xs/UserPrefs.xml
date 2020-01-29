@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{9BDF2B36-934E-07A8-C9DA-CC0B8894563C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Proyect/Scripts/Weapons/ShotController.cs">
+    <Files>
+      <File FileName="Assets/Proyect/Scripts/Weapons/LaserController.cs" Line="31" Column="2" />
+      <File FileName="Assets/Proyect/Scripts/Weapons/ShotController.cs" Line="34" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
