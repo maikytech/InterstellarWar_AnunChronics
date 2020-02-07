@@ -81,7 +81,6 @@
     <Compile Include="Assets\Proyect\Scripts\GameController\LoadingSceneController.cs" />
     <Compile Include="Assets\Proyect\Scripts\GameController\NextScene.cs" />
     <Compile Include="Assets\Proyect\Scripts\GameController\PlanetRotation.cs" />
-    <Compile Include="Assets\Proyect\Scripts\GameController\Prueba.cs" />
     <Compile Include="Assets\Proyect\Scripts\GameController\SandBoxController.cs" />
     <Compile Include="Assets\Proyect\Scripts\GameController\SaveLoad.cs" />
     <Compile Include="Assets\Proyect\Scripts\GameController\SpawnAsteroids.cs" />
