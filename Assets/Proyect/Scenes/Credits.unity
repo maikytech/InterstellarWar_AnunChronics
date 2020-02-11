@@ -44,7 +44,7 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
@@ -96,7 +96,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
-  m_LightingDataAsset: {fileID: 112000000, guid: e5e4148d982614057a4487fb144c2cd4,
+  m_LightingDataAsset: {fileID: 112000000, guid: 85f6eabf002fd49a7ae4d1411168ea81,
     type: 2}
   m_UseShadowmask: 0
 --- !u!196 &4
@@ -1187,13 +1187,13 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 0
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 1e-45, y: NaN, z: 0, w: 8.0763327e-32}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -1288,6 +1288,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6474084383704123556, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6269100938338130220, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1302,6 +1307,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6269100938337833886, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6270294956128739395, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5970870971432266845, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
         type: 3}
@@ -1323,22 +1338,7 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6269100938337833886, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6269100938818800667, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6270294956128739395, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6474084383704123556, guid: 78d12ce4dc6a844d5a96d33ce5430e0f,
         type: 3}
       propertyPath: m_IsActive
       value: 0

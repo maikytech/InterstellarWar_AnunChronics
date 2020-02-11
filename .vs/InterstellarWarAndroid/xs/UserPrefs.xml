@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{25449289-48A5-7185-56C2-BFBE3DFC882E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Proyect/Scripts/GameController/UnityADSInterstitial.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Proyect/Scripts/GameController/NextScene.cs">
     <Files>
       <File FileName="Assets/Proyect/Scripts/GameController/NextScene.cs" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" Line="72" Column="14" />
-      <File FileName="Assets/Proyect/Scripts/GameController/UnityADSInterstitial.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +12,7 @@
               <Node name="Proyect" expanded="True">
                 <Node name="Scripts" expanded="True">
                   <Node name="GameController" expanded="True">
-                    <Node name="UnityADSInterstitial.cs" selected="True" />
+                    <Node name="NextScene.cs" selected="True" />
                   </Node>
                 </Node>
               </Node>
@@ -30,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="177346ae-0765-4149-8320-d3d55adf5300" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="42c3c9ae-035b-4ca7-9152-c4c6446862fc" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
